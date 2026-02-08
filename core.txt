@@ -1,1 +1,2 @@
 some baseline functionality
+found and fixed some critical bug
